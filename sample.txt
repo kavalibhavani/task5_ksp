@@ -1,0 +1,11 @@
+EvalError : 	  JavaScript will throw this error when any error will occur in the eval() function.
+
+RangeError :	  JavaScript will throw this error when for a number or any other parameter "out of range" occurs.
+
+ReferenceError :  JavaScript will throw this error when you try to use some variable or object which is not declared or defined.
+
+SyntaxError	:     JavaScript will throw this error when there is some issue with the syntax of the JavaScript code.
+
+TypeError   :	  JavaScript will throw this error when there is a type mismatch in your code. If JavaScript is expecting a value of some other type and in code it gets a different type.
+
+URIError    :     JavaScript will throw this error when any error occurs in encodeURI() or decodeURI() functions.

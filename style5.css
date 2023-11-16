@@ -1,0 +1,19 @@
+h1{
+    color:aqua;
+    font-family:Arial;
+    font-style:oblique;
+    font-size:xx-large;
+}
+h2{
+    color:red;
+    font-style:italic;
+    font-size:large;
+}
+body{
+    color:yellowgreen;
+}
+
+p{
+    color:blue;
+    font-style: unset;
+}
